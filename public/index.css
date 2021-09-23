@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 800;
+  src: url(Montserrat-ExtraBold.ttf);
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 500;
+  src: url(Montserrat-Medium.ttf);
+}
+
+body {
+  height: 4744px;
+  width: 1600px;
+}
+
+.main-banner-container {
+  position: relative;
+  top: 182px;
+  height: 1057px;
+  background-color: #bae9ff;
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-weight: 800;
+  font-size: 121px;
+  letter-spacing: -9px;
+  line-height: 87px;
+  color: #222222;
+  text-align: center;
+  padding-right: 279px;
+  margin-bottom: 0;
+  padding-top: 264;
+}
+
+.carnival {
+  color: #f9246f;
+}
+
+h2 {
+  font-weight: 800;
+  font-family: "Montserrat";
+  font-size: 50px;
+  letter-spacing: 91px;
+  color: #222222;
+  text-align: center;
+  padding-left: 380px;
+  padding-right: 778px;
+  margin-top: 0;
+  margin-right: 0;
+  border-right: 0;
+}
+
+.p {
+  width: 590px;
+  height: 65px;
+  font-size: 16px;
+  line-height: 24px;
+  color: #494949;
+  font-weight: 500;
+  font-family: "Montserrat";
+  text-align: center;
+}
