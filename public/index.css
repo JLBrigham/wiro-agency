@@ -1,7 +1,19 @@
 @font-face {
   font-family: "Montserrat";
+  font-weight: 900;
+  src: url(Montserrat-Black.ttf);
+}
+
+@font-face {
+  font-family: "Montserrat";
   font-weight: 800;
   src: url(Montserrat-ExtraBold.ttf);
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 700;
+  src: url(Montserrat-Bold.ttf);
 }
 
 @font-face {
@@ -26,7 +38,7 @@ body {
 .top-navigation-bar {
   width: 1609px;
   height: 121px;
-  background-color: #ffffff;
+  background-color: #e4f6ff;
 }
 
 .free-international {
@@ -58,6 +70,12 @@ body {
   /* top: 182px; */
   height: 1057px;
   background-color: #bae9ff;
+}
+
+hr {
+  text-align: center;
+  margin: 0;
+  padding-top: 50px;
 }
 
 .fashion-carnival-container {
