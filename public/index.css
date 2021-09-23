@@ -295,3 +295,19 @@ p {
   text-align: center;
   margin-top: 0px;
 }
+
+.price {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+.original-price {
+  font-size: 16px;
+  text-decoration: line-through;
+  color: #6b6b6b;
+  font-weight: 500;
+  font-family: "Montserrat";
+  text-align: center;
+}
