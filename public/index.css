@@ -257,7 +257,6 @@ p {
 .product {
   width: 246px;
   height: 423px;
-  background-color: grey;
   display: flex;
   flex-direction: column;
 }
@@ -266,4 +265,33 @@ p {
   width: 246px;
   height: 298px;
   background-color: #000000;
+}
+
+.product-name {
+  font-size: 18px;
+  line-height: 22px;
+  color: #000000;
+  font-weight: 700;
+  font-family: "Montserrat";
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.product-brand {
+  font-size: 16px;
+  line-height: 22px;
+  color: #000000;
+  font-weight: 500;
+  font-family: "Montserrat";
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.star-icon {
+  font-size: 15px;
+  line-height: 50px;
+  color: #ffc808;
+  text-align: center;
+  margin-top: 0px;
 }
