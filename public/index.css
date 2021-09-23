@@ -257,5 +257,13 @@ p {
 .product {
   width: 246px;
   height: 423px;
-  background-color: black;
+  background-color: grey;
+  display: flex;
+  flex-direction: column;
+}
+
+.product-img {
+  width: 246px;
+  height: 298px;
+  background-color: #000000;
 }
