@@ -71,6 +71,39 @@ body {
   height: 1057px;
   background-color: #bae9ff;
 }
+.me-store {
+  font-size: 26px;
+  color: #222222;
+  font-weight: 900;
+  font-family: "Montserrat";
+  position: absolute;
+  top: 146px;
+  padding-left: 221px;
+}
+
+.nav-bar-links {
+  position: absolute;
+  right: 224px;
+  top: 136px;
+}
+
+.nav-link-list {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  justify-content: space-evenly;
+  width: 566px;
+  padding-top: 20px;
+}
+
+.nav-link {
+  font-size: 16px;
+  color: #222222;
+  font-weight: 700;
+  font-family: "Montserrat";
+  text-decoration: none;
+  margin: 0;
+}
 
 hr {
   text-align: center;
@@ -79,7 +112,7 @@ hr {
 }
 
 .fashion-carnival-container {
-  height: 1057px;
+  height: 935px;
   width: 610px;
   background-color: #bae9ff;
   position: relative;
@@ -139,4 +172,23 @@ p {
   font-family: "Montserrat";
   text-align: center;
   margin-top: 30px;
+}
+
+.product-section-container {
+  display: flex;
+  justify-content: center;
+}
+
+.fashion-carnival {
+  position: absolute;
+  top: 1285px;
+  width: 1160px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.inner-fashion-carnival {
+  width: 535px;
+  height: 292px;
+  background-color: #d7eff9;
 }
