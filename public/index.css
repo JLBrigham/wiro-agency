@@ -22,6 +22,18 @@ body {
   background-color: #bae9ff;
 }
 
+.fashion-carnival-container {
+  height: 1057px;
+  /* top: 182px; */
+  width: 610px;
+  background-color: black;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 279px;
+}
+
 h1 {
   font-family: "Montserrat";
   font-weight: 800;
@@ -30,9 +42,9 @@ h1 {
   line-height: 87px;
   color: #222222;
   text-align: center;
-  padding-right: 279px;
+  /* padding-left: 279px; */
   margin-bottom: 0;
-  padding-top: 264;
+  /* padding-top: 264; */
 }
 
 .carnival {
@@ -45,15 +57,11 @@ h2 {
   font-size: 50px;
   letter-spacing: 91px;
   color: #222222;
-  text-align: center;
-  padding-left: 380px;
-  padding-right: 778px;
   margin-top: 0;
-  margin-right: 0;
-  border-right: 0;
+  text-align: center;
 }
 
-.p {
+p {
   width: 590px;
   height: 65px;
   font-size: 16px;
