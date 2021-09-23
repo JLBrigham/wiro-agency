@@ -24,12 +24,12 @@ body {
 
 .fashion-carnival-container {
   height: 1057px;
-  /* top: 182px; */
   width: 610px;
-  background-color: black;
+  background-color: #bae9ff;
   position: relative;
   display: flex;
   flex-direction: column;
+  align-items: center;
   justify-content: center;
   left: 279px;
 }
@@ -57,12 +57,11 @@ h2 {
   font-size: 50px;
   letter-spacing: 91px;
   color: #222222;
-  margin-top: 0;
-  text-align: center;
+  margin: 0;
+  /* text-align: center; */
 }
 
 p {
-  width: 590px;
   height: 65px;
   font-size: 16px;
   line-height: 24px;
@@ -70,4 +69,18 @@ p {
   font-weight: 500;
   font-family: "Montserrat";
   text-align: center;
+  margin-top: 10;
+}
+
+.shop-now-button {
+  width: 156px;
+  height: 47px;
+  background-image: linear-gradient(90deg, #f9236f 0%, #f92346 100%);
+  border: none;
+  font-size: 20px;
+  color: #ffffff;
+  font-weight: 900;
+  font-family: "Montserrat";
+  text-align: center;
+  margin-top: 30px;
 }
