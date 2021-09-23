@@ -221,3 +221,41 @@ p {
 .shop-now-button.second {
   margin-left: 25px;
 }
+
+.featured-products-heading-container {
+  width: 1160px;
+  position: absolute;
+  top: 1686px;
+}
+
+.featured-products-heading {
+  font-size: 26px;
+  color: #000000;
+  font-weight: 900;
+  font-family: "Montserrat";
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.featured-products-heading-text {
+  font-size: 16px;
+  color: #000000;
+  font-weight: 500;
+  font-family: "Montserrat";
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.featured-products {
+  position: absolute;
+  width: 1160px;
+  top: 1758px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.product {
+  width: 246px;
+  height: 423px;
+  background-color: black;
+}
