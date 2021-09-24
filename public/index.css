@@ -294,17 +294,21 @@ p {
   color: #ffc808;
   text-align: center;
   margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 .price {
   font-size: 16px;
+  line-height: 22px;
   font-weight: 500;
   font-family: "Montserrat";
   text-align: center;
+  margin-top: 0px;
 }
 
 .original-price {
   font-size: 16px;
+  line-height: 22px;
   text-decoration: line-through;
   color: #6b6b6b;
   font-weight: 500;
