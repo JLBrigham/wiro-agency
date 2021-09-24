@@ -29,14 +29,14 @@ body {
 }
 
 .top-banner-container {
-  width: 1609px;
+  width: 1600px;
   height: 74px;
   background-image: linear-gradient(90deg, #f9236f 0%, #f92346 100%);
   margin: 0;
 }
 
 .top-navigation-bar {
-  width: 1609px;
+  width: 1600px;
   height: 121px;
   background-color: #e4f6ff;
 }
@@ -61,7 +61,7 @@ body {
   background-color: #ffffff;
   border: none;
   position: absolute;
-  right: 224px;
+  right: 217px;
   top: 20px;
 }
 
@@ -83,7 +83,7 @@ body {
 
 .nav-bar-links {
   position: absolute;
-  right: 224px;
+  right: 217px;
   top: 136px;
 }
 
@@ -183,7 +183,7 @@ p {
 .fashion-carnival {
   position: absolute;
   top: 1285px;
-  width: 1160px;
+  width: 1178px;
   display: flex;
   justify-content: space-evenly;
 }
