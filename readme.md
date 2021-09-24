@@ -1,6 +1,6 @@
 # Wiro Agency - HTML & CSS Challenge
 
-The task was to recreate a webpage that looked as close as possible to a design file I was given.
+The task was to recreate a webpage that looked as close as possible to [this](https://user-images.githubusercontent.com/74301627/134665862-f82321f7-78ca-4265-9848-b3015050330c.jpg) design file I was given.
 
 ## How to run
 
