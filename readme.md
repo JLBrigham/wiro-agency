@@ -21,7 +21,7 @@ To ensure that fonts, icons and images were always available I decided to host t
 
 My next steps would be to finish the nav bar, products banners and then move onto the footer. After that I would then look at including the icons and images.
 
-Positioning was what took up the majority of my time. I feel like I have a much better understanding of Flexbox now but would like to learn more about Grid as I think this wouls also have helped me. This is definitely somthing I plan to look into further.
+Positioning was what took up the majority of my time. The positioning of my product banner is not qute right at the moment as the required space isn't there for the first row, i would need to relook at my calculations to figure out where I have gone wrong here. I feel like I have a much better understanding of Flexbox now but would like to learn more about Grid as I think this would also have helped me. This is definitely somthing I plan to look into further.
 
 I would have like to have made the page responsive. When building it have followed the dimensions of the file I was sent which seems far wider than you would expect from a standard webpage and does not fit well on my 13inch screen. In order to make the page responsive I would like to look into using media queries, they aren't something I am familiar with at the moment so are something I am keen to learn more about.
 
