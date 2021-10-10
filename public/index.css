@@ -23,7 +23,8 @@
 }
 
 body {
-  height: 4744px;
+  /* height: 4744px; */
+  height: 2946px;
   width: 1600px;
   margin: 0;
 }
@@ -328,4 +329,10 @@ p {
   font-weight: 500;
   font-family: "Montserrat";
   text-align: center;
+}
+
+.footer {
+  background-image: linear-gradient(90deg, #f9236f 0%, #f92346 100%);
+  width: 1609px;
+  height: 767px;
 }
