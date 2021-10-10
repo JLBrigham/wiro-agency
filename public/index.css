@@ -42,6 +42,16 @@ body {
   background-color: #e4f6ff;
 }
 
+.nav-bar-horizontal-rule {
+  position: absolute;
+  top: 125px;
+  margin: auto;
+  width: 1170px;
+  height: 1px;
+  background-color: #000000;
+  padding-top: 0px;
+}
+
 .free-international {
   font-size: 20px;
   color: #ffffff;
@@ -188,10 +198,52 @@ p {
   display: flex;
   justify-content: center;
   position: absolute;
+  flex-direction: column;
   top: 1180px;
   width: 1172px;
   height: 1219px;
   background-color: #ffffff;
+}
+
+.top-product-section {
+  position: absolute;
+  top: 0px;
+  width: 1172px;
+  height: 130px;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.offer-container {
+  display: flex;
+  flex-direction: column;
+}
+
+/* .offer-icon {
+  width: 126px;
+  height: 126px;
+  border-radius: 63px;
+  background-color: #ffffff;
+} */
+
+.product-offer-heading {
+  font-size: 30px;
+  color: #000000;
+  font-weight: 900;
+  font-family: "Montserrat";
+  text-align: center;
+  margin-top: 0;
+  padding-top: 37px;
+}
+
+.product-offer-text {
+  font-size: 16px;
+  color: #000000;
+  font-weight: 500;
+  font-family: "Montserrat";
+  text-align: center;
+  margin-top: 0;
 }
 
 .fashion-carnival {
