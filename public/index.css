@@ -178,15 +178,19 @@ p {
 .outer-product-section-container {
   display: flex;
   justify-content: center;
+  background-color: #f8f8f8;
+  width: 1600px;
+  height: 1058px;
 }
 
 .product-section-container {
   display: flex;
   justify-content: center;
   position: absolute;
+  top: 1180px;
   width: 1172px;
   height: 1219px;
-  background-color: #ffc808;
+  background-color: #ffffff;
 }
 
 .fashion-carnival {
