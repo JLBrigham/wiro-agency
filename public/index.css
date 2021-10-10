@@ -175,14 +175,23 @@ p {
   margin-top: 30px;
 }
 
-.product-section-container {
+.outer-product-section-container {
   display: flex;
   justify-content: center;
 }
 
+.product-section-container {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  width: 1172px;
+  height: 1219px;
+  background-color: #ffc808;
+}
+
 .fashion-carnival {
   position: absolute;
-  top: 1285px;
+  top: 215px;
   width: 1178px;
   display: flex;
   justify-content: space-evenly;
@@ -226,7 +235,7 @@ p {
 .featured-products-heading-container {
   width: 1160px;
   position: absolute;
-  top: 1686px;
+  top: 615px;
 }
 
 .featured-products-heading {
@@ -250,7 +259,7 @@ p {
 .featured-products {
   position: absolute;
   width: 1160px;
-  top: 1758px;
+  top: 688px;
   display: flex;
   justify-content: space-evenly;
 }
