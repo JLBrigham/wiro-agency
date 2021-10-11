@@ -1,6 +1,6 @@
 # HTML & CSS Challenge
 
-The task is to recreate a webpage that looked as close as possible to [this](https://user-images.githubusercontent.com/74301627/134665862-f82321f7-78ca-4265-9848-b3015050330c.jpg) design file I have been given.
+The task is to recreate a webpage that looks as close as possible to [this](https://user-images.githubusercontent.com/74301627/134665862-f82321f7-78ca-4265-9848-b3015050330c.jpg) design file I have been given.
 
 This is my first attempt at a challenge like this and I am enjoying it alot, it is not a finished project yet and I am continuing to work on it as I am finding it a really useful exercise to improve my CSS skills.
 
@@ -21,9 +21,9 @@ To ensure that fonts, icons and images are always available I decided to host th
 
 The task was to make my page look as close as possible to the file I was given. I have therefore copied the sizing and dimensions of the file exactly, even though it seems an unusual size for a webpage - it is much wider. The task did not include making the page responsive however this is something I plan to work on. To make the page responsive I would like to look into using media queries, they aren't something I am familiar with at the moment so are something I am keen to research and learn more about.
 
-So far this challenge has been great for increasing my understanding of flexbox and positinging in CSS. I have found my workflow has become much quicker the more confident I have become with flexbox. Currently I am aware the the positioning of the text on the right side of the navbar is not quite correct along with the text in the right side of the 'free shipping' banner, I plan to work on this next. This was one of the first sections I worked on and I think now I will be able to improve it.
+So far this challenge has been great for increasing my understanding of flexbox and positioning in CSS. I have found my workflow has become much quicker the more confident I have become with flexbox. Currently I am aware the the positioning of the text on the right side of the navbar is not quite correct along with the text in the right side of the 'free shipping' banner, I plan to work on this next. This was one of the first sections I worked on and I think now I will be able to improve it.
 
-Though the challenge was to recreate a page that looked as close as possible to the file I was given, I have changed some small details in the text of the file to maintain consistency. For example the use of euro and dollar signs was inconsistent throughtout the file so I decided to change them all to dollar signs. I have also changed some of the capital letters used to maintain a more consistent look.
+Though the challenge was to recreate a page that looked as close as possible to the file I was given, I have changed some small details in the text of the file to maintain consistency. For example the use of euro and dollar signs was inconsistent through out the file so I decided to change them all to dollar signs. I have also changed some of the capital letters used to maintain a more consistent look.
 
 I am yet to source any icons to be added to my page, the ones in the file I was given were not free and came from Font Awesome.
 
