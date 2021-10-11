@@ -15,7 +15,7 @@ This is my first attempt at a challenge like this and I am enjoying it alot, it 
 
 I initially tried to get to grips with Photopea as I have no prior experience with that or Photoshop. I have not yet figured out how to export the images so decided the best approach was to focus on building the page without any of the images as they could be added later. I filtered them out and worked off the file looking like [this](https://github.com/JLBrigham/wiro-agency/issues/1#issue-100635288). This seemed like the most managable way to approach the challenge.
 
-To ensure that fonts, icons and images are always available I decided to host them on my own server. To do this I set up a server using express.js.
+To ensure that fonts, icons and images are always available I decided to host them on my own server. To do this I set up a server using express.js. I then collected all the fonts I knew I was going to need, ideally I would have also collected all the icons and images too so that I had everything I would be working with, however these are unavailable to me at the moment.
 
 ## Notes and what I will work on next
 

@@ -186,6 +186,15 @@ p {
   margin-top: 30px;
 }
 
+.semi-circle-container {
+  width: 1172px;
+  height: 65px;
+  background-color: pink;
+  position: absolute;
+  top: 1120px;
+  left: 214px;
+}
+
 .outer-product-section-container {
   display: flex;
   justify-content: center;
