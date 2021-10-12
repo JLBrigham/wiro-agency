@@ -206,6 +206,9 @@ p {
   width: 127px;
   border-radius: 150px 150px 0 0;
   background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
 }
 
 .outer-product-section-container {
@@ -407,6 +410,28 @@ p {
 
 .footer {
   background-image: linear-gradient(90deg, #f9236f 0%, #f92346 100%);
-  width: 1609px;
+  width: 1600px;
   height: 767px;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-container {
+  width: 1172px;
+  height: 300px;
+  position: absolute;
+  top: 2470px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.footer-column {
+  height: 270px;
+}
+
+.footer-column-header {
+  font-size: 20px;
+  color: #ffffff;
+  font-weight: 900;
+  font-family: "Montserrat";
 }
